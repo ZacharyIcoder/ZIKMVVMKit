@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZIKMVVMKit_Example' do
+  pod 'ZIKMVVMKit', :path => '../'
+
+  target 'ZIKMVVMKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
