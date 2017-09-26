@@ -1,0 +1,6 @@
+framework module ZIKMVVMKit {
+  umbrella header "ZIKMVVMKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ZIKMVVMKit_Tests {
+  umbrella header "Pods-ZIKMVVMKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
